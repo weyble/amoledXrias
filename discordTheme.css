@@ -244,28 +244,6 @@
 	--deprecated-text-input-bg: rgba(var(--transparencycolor_v), .1);
 	--deprecated-text-input-border: rgba(var(--transparencycolor_v), .1);
 	--deprecated-text-input-border-hover: rgba(var(--transparencycolor_v), .3);
-  --background: url('https://cdn.discordapp.com/attachments/918242796966674473/1374445778415653024/image.jpg?ex=682e13e1&is=682cc261&hm=6c8c591ea263bfe70c148c1540e62acfe74ac768183e0e35cc6d43b0c89468d4&');
-  --backgroundsize: cover;
-  --backgroundposition: center;
-  --backgroundblur: 0px;
-  --popout: var(--background);
-  --popoutsize: var(--backgroundsize);
-  --backgroundposition: center;
-  --popoutblur: 0px;
-  --transparencycolor: 0,0,0;
-  --accentcolor: 244,67,54;
-  --backdrop: rgba(0,0,0,0.85);
-  --textshadow: transparent;
-  --transparencyalpha: 0.7;
-  --messagetransparency: 0.0000000000000000001;
-  --guildchanneltransparency: 0;
-  --chatinputtransparency: 0;
-  --memberlisttransparency: 0;
-  --textbrightest: 255,255,255;
-  --settingsicons: 0;
-  --backdropsize: var(--background-size);
-  --backdropblur: 0px;
-  --version1_0_5: none;
 }
 .theme-light:not(.custom-user-profile-theme),
 .theme-dark:not(.custom-user-profile-theme),
